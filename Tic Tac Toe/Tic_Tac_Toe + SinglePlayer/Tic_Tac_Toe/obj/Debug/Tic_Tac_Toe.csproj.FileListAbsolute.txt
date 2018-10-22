@@ -1,0 +1,45 @@
+D:\Projects\С#\Новая папка\Новая папка\Tic_Tac_Toe\Tic_Tac_Toe\bin\Debug\Tic_Tac_Toe.exe.config
+D:\Projects\С#\Новая папка\Новая папка\Tic_Tac_Toe\Tic_Tac_Toe\bin\Debug\Tic_Tac_Toe.exe
+D:\Projects\С#\Новая папка\Новая папка\Tic_Tac_Toe\Tic_Tac_Toe\bin\Debug\Tic_Tac_Toe.pdb
+D:\Projects\С#\Новая папка\Новая папка\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.csprojResolveAssemblyReference.cache
+D:\Projects\С#\Новая папка\Новая папка\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+D:\Projects\С#\Новая папка\Новая папка\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.csproj.GenerateResource.Cache
+D:\Projects\С#\Новая папка\Новая папка\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.exe
+D:\Projects\С#\Новая папка\Новая папка\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.pdb
+D:\Projects\С#\Новая папка\Новая папка\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.GameField.resources
+D:\Projects\С#\2 Курс\Семестр 1\Tic_Tac_Toe\Tic_Tac_Toe\bin\Debug\Tic_Tac_Toe.exe.config
+D:\Projects\С#\2 Курс\Семестр 1\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.exe
+D:\Projects\С#\2 Курс\Семестр 1\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.pdb
+D:\Projects\С#\2 Курс\Семестр 1\Tic_Tac_Toe\Tic_Tac_Toe\bin\Debug\Tic_Tac_Toe.exe
+D:\Projects\С#\2 Курс\Семестр 1\Tic_Tac_Toe\Tic_Tac_Toe\bin\Debug\Tic_Tac_Toe.pdb
+D:\Projects\С#\2 Курс\Семестр 1\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.csprojResolveAssemblyReference.cache
+D:\Projects\С#\2 Курс\Семестр 1\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.GameField.resources
+D:\Projects\С#\2 Курс\Семестр 1\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+D:\Projects\С#\2 Курс\Семестр 1\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.csproj.GenerateResource.Cache
+D:\Zheka\Documents\Visual Studio 2015\Projects\2 Курс\С#\Семестр 1\Tic_Tac_Toe + MultiPlayer\Tic_Tac_Toe\bin\Debug\Tic_Tac_Toe.exe.config
+D:\Zheka\Documents\Visual Studio 2015\Projects\2 Курс\С#\Семестр 1\Tic_Tac_Toe + MultiPlayer\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.exe
+D:\Zheka\Documents\Visual Studio 2015\Projects\2 Курс\С#\Семестр 1\Tic_Tac_Toe + MultiPlayer\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.pdb
+D:\Zheka\Documents\Visual Studio 2015\Projects\2 Курс\С#\Семестр 1\Tic_Tac_Toe + MultiPlayer\Tic_Tac_Toe\bin\Debug\Tic_Tac_Toe.exe
+D:\Zheka\Documents\Visual Studio 2015\Projects\2 Курс\С#\Семестр 1\Tic_Tac_Toe + MultiPlayer\Tic_Tac_Toe\bin\Debug\Tic_Tac_Toe.pdb
+D:\Zheka\Documents\Visual Studio 2015\Projects\2 Курс\С#\Семестр 1\Tic_Tac_Toe + MultiPlayer\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.csprojResolveAssemblyReference.cache
+D:\Zheka\Documents\Visual Studio 2015\Projects\2 Курс\С#\Семестр 1\Tic_Tac_Toe + MultiPlayer\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.GameField.resources
+D:\Zheka\Documents\Visual Studio 2015\Projects\2 Курс\С#\Семестр 1\Tic_Tac_Toe + MultiPlayer\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+D:\Zheka\Documents\Visual Studio 2015\Projects\2 Курс\С#\Семестр 1\Tic_Tac_Toe + MultiPlayer\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.csproj.GenerateResource.Cache
+D:\Zheka\Documents\Visual Studio 2015\Projects\2 Курс\С#\Семестр 1\Tic_Tac_Toe + SinglePlayer\Tic_Tac_Toe\bin\Debug\Tic_Tac_Toe.exe.config
+D:\Zheka\Documents\Visual Studio 2015\Projects\2 Курс\С#\Семестр 1\Tic_Tac_Toe + SinglePlayer\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.exe
+D:\Zheka\Documents\Visual Studio 2015\Projects\2 Курс\С#\Семестр 1\Tic_Tac_Toe + SinglePlayer\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.pdb
+D:\Zheka\Documents\Visual Studio 2015\Projects\2 Курс\С#\Семестр 1\Tic_Tac_Toe + SinglePlayer\Tic_Tac_Toe\bin\Debug\Tic_Tac_Toe.exe
+D:\Zheka\Documents\Visual Studio 2015\Projects\2 Курс\С#\Семестр 1\Tic_Tac_Toe + SinglePlayer\Tic_Tac_Toe\bin\Debug\Tic_Tac_Toe.pdb
+D:\Zheka\Documents\Visual Studio 2015\Projects\2 Курс\С#\Семестр 1\Tic_Tac_Toe + SinglePlayer\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.csprojResolveAssemblyReference.cache
+D:\Zheka\Documents\Visual Studio 2015\Projects\2 Курс\С#\Семестр 1\Tic_Tac_Toe + SinglePlayer\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.GameField.resources
+D:\Zheka\Documents\Visual Studio 2015\Projects\2 Курс\С#\Семестр 1\Tic_Tac_Toe + SinglePlayer\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+D:\Zheka\Documents\Visual Studio 2015\Projects\2 Курс\С#\Семестр 1\Tic_Tac_Toe + SinglePlayer\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.csproj.GenerateResource.Cache
+C:\Users\Zheka\NAU\Projects and Labs\Games\Tic Tac Toe\Tic_Tac_Toe + SinglePlayer\Tic_Tac_Toe\bin\Debug\Tic_Tac_Toe.exe.config
+C:\Users\Zheka\NAU\Projects and Labs\Games\Tic Tac Toe\Tic_Tac_Toe + SinglePlayer\Tic_Tac_Toe\bin\Debug\Tic_Tac_Toe.exe
+C:\Users\Zheka\NAU\Projects and Labs\Games\Tic Tac Toe\Tic_Tac_Toe + SinglePlayer\Tic_Tac_Toe\bin\Debug\Tic_Tac_Toe.pdb
+C:\Users\Zheka\NAU\Projects and Labs\Games\Tic Tac Toe\Tic_Tac_Toe + SinglePlayer\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.csprojResolveAssemblyReference.cache
+C:\Users\Zheka\NAU\Projects and Labs\Games\Tic Tac Toe\Tic_Tac_Toe + SinglePlayer\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.GameField.resources
+C:\Users\Zheka\NAU\Projects and Labs\Games\Tic Tac Toe\Tic_Tac_Toe + SinglePlayer\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\Zheka\NAU\Projects and Labs\Games\Tic Tac Toe\Tic_Tac_Toe + SinglePlayer\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.csproj.GenerateResource.Cache
+C:\Users\Zheka\NAU\Projects and Labs\Games\Tic Tac Toe\Tic_Tac_Toe + SinglePlayer\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.exe
+C:\Users\Zheka\NAU\Projects and Labs\Games\Tic Tac Toe\Tic_Tac_Toe + SinglePlayer\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.pdb
